@@ -6,6 +6,12 @@ This repository covers some must-haves when starting a project so you don't have
 
 To get started, take out this __How to__ section, replace __New Project Kit__ with your project's name and fill up the README template below!
 
+__Nice-to-haves__
+- A lot of projects have __a nice logo__ that catches the eye and builds branding, feel free to add one to your project!
+- __Badges__ are a great way to visually represent the current state of your project, from CI to latest released versions.
+- Don't forget to add in a badge for your project's [Maturity Score](https://github.com/tophat/getting-started/blob/master/scorecard.mdi)!
+- Screenshots or GIFs of your project in action can also be pretty cool to have in here!
+
 ## Overview
 
 _At a high-level, what is your project about? What problem does it solve? This is the first thing people will see when landing on your repository, make it snappy!_
