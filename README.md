@@ -2,7 +2,7 @@
 
 ## How to use this repository
 
-This repository covers some must-haves when starting a project so you don't have to. Things like setting up a basic CI configuration, a README, issue templates and whatnot.
+This repository covers some must-haves when starting a project so you don't have to. Things like setting up a basic CI configuration, a README, issue templates and whatnot. Simply clone it and fill it up with your project's files! Everything you find in here is a suggestion rather than a prescription; don't feel obligated to stick to the templated format! After all, every project is unique in its own right.
 
 To get started, take out this __How to__ section, replace __New Project Kit__ with your project's name and fill up the README template below!
 
