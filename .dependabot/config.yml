@@ -1,5 +1,11 @@
-# This config is a good default for automatic dependency updates with dependabot
-# View the dependabot docs for all configuration options: https://dependabot.com/docs/config-file/
+# This config is a good default for automatic dependency updates with
+# dependabot. View the dependabot docs for all configuration options:
+# https://dependabot.com/docs/config-file/
+
+# NB: Just adding this config is not enough to get dependabot running; ask an
+# org admin
+# (https://github.com/orgs/tophat/people?utf8=%E2%9C%93&query=role%3Aowner) to
+# enable it for your repository once you've set up your dependency management.
 
 version: 1
 update_configs:
