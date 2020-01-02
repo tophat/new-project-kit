@@ -1,0 +1,11 @@
+# This config is a good default for automatic dependency updates with dependabot
+# View the dependabot docs for all configuration options: https://dependabot.com/docs/config-file/
+
+version: 1
+update_configs:
+  - package_manager: "javascript" # change this based on the language you're using
+    directory: "/"
+    update_schedule: "weekly"
+    version_requirement_updates: "increase_versions"
+    commit_message:
+      prefix: "chore"
