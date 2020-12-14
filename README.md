@@ -49,3 +49,10 @@ _You don't really have to add this section yourself! Simply use [all-contributor
 _Find out more about All-Contributors on their website!_
 
 
+## Infrastructure and tooling
+
+It can be tremendously useful for both your maintainers and contributors to have tools within reach. Don't hesitate to rely on Docker if you need specific environments to test, develop or build in. Moreover, a well-crafted `Makefile` can streamline a lot of the common tasks that are part of your project's development cycle. Bonus: you can use those in CI!
+
+## Help make this starting kit better
+
+If you have any suggestions for ways we could make this starting kit better, please [open a documentation request](https://github.com/tophat/getting-started/issues/new?template=documentation_request.md)!
