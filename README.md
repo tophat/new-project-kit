@@ -53,6 +53,13 @@ _Find out more about All-Contributors on their website!_
 
 It can be tremendously useful for both your maintainers and contributors to have tools within reach. Don't hesitate to rely on Docker if you need specific environments to test, develop or build in. Moreover, a well-crafted `Makefile` can streamline a lot of the common tasks that are part of your project's development cycle. Bonus: you can use those in CI!
 
+## Getting your project to post updates on Discord
+
+You can set up a webhook that will post Github updates (new pull requests, new issues, ...) to Discord automagically by
+using the [Discord Webhook API](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks). This
+requires some set up at the repository level which you can do while setting up your project as well as a couple of boxes
+to tick on the appropriate channel to allow Github to post on Discord. If in doubt, reach out to the Discord space's admins!
+
 ## Help make this starting kit better
 
 If you have any suggestions for ways we could make this starting kit better, please [open a documentation request](https://github.com/tophat/getting-started/issues/new?template=documentation_request.md)!
