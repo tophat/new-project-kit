@@ -1,5 +1,15 @@
 {
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "prConcurrentLimit": 5,
-    "commitMessagePrefix": "chore: ",
-    "rangeStrategy": "replace"
+    "semanticCommits": "enabled",
+    "semanticCommitType": "deps",
+    "semanticCommitScope": "",
+    "rangeStrategy": "bump",
+    "rebaseWhen": "behind-base-branch",
+    "separateMajorMinor": true,
+    "separateMinorPatch": false,
+    "stabilityDays": 21,
+    "internalChecksFilter": "strict",
+    "dependencyDashboard": true,
+    "timezone": "America/Toronto"
 }
