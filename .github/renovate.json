@@ -11,5 +11,8 @@
     "stabilityDays": 21,
     "internalChecksFilter": "strict",
     "dependencyDashboard": true,
-    "timezone": "America/Toronto"
+    "timezone": "America/Toronto",
+    "addLabels": [
+        "dependencies"
+    ]
 }
